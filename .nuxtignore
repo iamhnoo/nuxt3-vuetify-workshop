@@ -1,0 +1,5 @@
+#ignore pages
+pages/demo.vue
+
+#ignore layouts
+#layouts/default.vue
